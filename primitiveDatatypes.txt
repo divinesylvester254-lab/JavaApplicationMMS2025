@@ -1,0 +1,9 @@
+public class PrimitiveDatatype{
+     public static void main(string[] args) {
+	     byte age =30;
+		 System.out.printf("%d",age);
+		 
+		 short quantityofBags = 10000;
+		 system.out.printf("The quantity of Bags ordered is %d%",quantityofBags)
+	 }
+}

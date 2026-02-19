@@ -1,0 +1,9 @@
+public class TypeCasting{
+    public static void main(String[] args)(
+	
+	    double balance = 68949;
+		system.out.printf("The account balance is %f%n",balance);
+		
+		
+		double number = 89.56;
+		int newValue =
