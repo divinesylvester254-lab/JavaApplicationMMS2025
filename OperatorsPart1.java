@@ -24,7 +24,7 @@ public class OperatorsPart1{
 		System.out.printf("The remainder of %d and %d is %d%n",num1,num2,remainder);
 		
 		
-		//compound assinment operators
+		//compound assingment operators
 	    num1 += num2;
 		System.out.printf("The value of num1 is now %d%n",num1);
 		
